@@ -53,7 +53,7 @@ but_3=Button(window,width=width_but,font=font_but,text='3',command=lambda :Show(
 but_3.place(x=150,y=240)
 
 #RANGE 4_____________________________________
-but_0=Button(window,width=11,font=font_but,text='0',command=lambda :Show(4))
+but_0=Button(window,width=11,font=font_but,text='0',command=lambda :Show(0))
 but_0.place(x=30,y=290)
 
 but_point=Button(window,width=4,font=font_but,text='.',command=lambda :Show('.'))
